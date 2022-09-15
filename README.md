@@ -41,6 +41,8 @@ $ python3 -m  requests --version
 
 # define message requirements
 >>> otp_token = 878778
+
+# include Country code without plus +
 >>> receiver_phone = "255718017738"
 
 # view message
