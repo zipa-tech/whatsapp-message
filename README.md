@@ -50,7 +50,7 @@ $ python3 -m  requests --version
 # view link
 >>> link = "https://crdb.zipa.tech/zipa-message/{}/{}/".format(receiver_phone, my_message)
 >>> link
-... "https://crdb.zipa.tech/zipa-message/255718017738/Hello%20Friend,%20Your%20WhatsApp%20OTP%20token%20is%20878778
+... "https://crdb.zipa.tech/zipa-message/255718017738/Hello Friend, Your WhatsApp OTP token is 878778
 
 # send your message
 >>> response = requests.get(link)
