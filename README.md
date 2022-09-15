@@ -22,7 +22,7 @@ Free WhatsApp Messages API [UDICTI TCMS-CRDB BootCamp 2022](https://udicti.udsm.
 
 
 ### API
-[https://crdb.zipa.tech/receiver-phone/your-message](https://crdb.zipa.tech/255718017738/I%20have%20visited%20your%20github%20Mr%20Kalokola/)
+[https://crdb.zipa.tech/zipa-message/receiver-phone/your-message](https://crdb.zipa.tech/zipa-message/255718017738/I%20have%20visited%20your%20github%20Mr%20Kalokola/)
 
 Example with OTPs
 ```bash
@@ -48,9 +48,9 @@ $ python3 -m  requests --version
 ... "Hello Friend, Your WhatsApp OTP token is 878778"
 
 # view link
->>> link = "https://crdb.zipa.tech/{}/{}/".format(receiver_phone, my_message)
+>>> link = "https://crdb.zipa.tech/zipa-message/{}/{}/".format(receiver_phone, my_message)
 >>> link
-... "https://crdb.zipa.tech/255718017738/Hello%20Friend,%20Your%20WhatsApp%20OTP%20token%20is%20878778
+... "https://crdb.zipa.tech/zipa-message/255718017738/Hello%20Friend,%20Your%20WhatsApp%20OTP%20token%20is%20878778
 
 # send your message
 >>> response = requests.get(link)
