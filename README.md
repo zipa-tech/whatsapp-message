@@ -17,7 +17,7 @@ Free WhatsApp Messages API [UDICTI TCMS-CRDB BootCamp 2022](https://udicti.udsm.
 
 [**NOTE**]()
 
-- Iniate Conversation with [+255 754 503 886](ghttps://wa.me/255754503886/)i.e Make sure you have sent atleast one physical message to [+255 754 503 886](ghttps://wa.me/255754503886/)
+- Iniate Conversation with [+255 754 503 886](https://wa.me/255754503886/) i.e Make sure you have sent atleast one physical message to [+255 754 503 886](https://wa.me/255754503886/)
 - Use less than 256 characters in your message.
 
 
