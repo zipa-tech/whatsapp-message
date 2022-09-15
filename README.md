@@ -24,10 +24,11 @@ Free WhatsApp Messages API [UDICTI TCMS-CRDB BootCamp 2022](https://udicti.udsm.
 ### API
 [https://crdb.zipa.tech/zipa-message/receiver-phone/your-message](https://crdb.zipa.tech/zipa-message/255718017738/I%20have%20visited%20your%20github%20Mr%20Kalokola/)
 
-Example with OTPs
+### Install requirements
 ```bash
 # install requests
 $ pip3 install requests
+
 # confirm if installed and see version
 $ python3 -m  requests --version
 ```
