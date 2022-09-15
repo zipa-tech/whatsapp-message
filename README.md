@@ -10,9 +10,8 @@ Free WhatsApp Messages API [UDICTI TCMS-CRDB BootCamp 2022](https://udicti.udsm.
 ## Use Case
 
 1. Sending OTPs, Short Messages
-2. Sending Logging Info's
-3. Monitoring Software Actions like 
-4. Sending Anonymous Messages. to people
+2. Monitoring Software Actions like Logging Info's
+3. Sending Anonymous Messages. to people
 
 
 [**NOTE**]()
